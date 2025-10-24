@@ -32,13 +32,13 @@
 
 <p align="center">
   <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-    <img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="60" style="vertical-align: middle;" alt="Get it on GitHub" />
+    <img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="70" style="vertical-align: middle;" alt="Get it on GitHub" />
   </a>
   <a href="https://repo.vichord.app/">
-    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="60" style="vertical-align: middle;" alt="Get it on F-Droid" />
+    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="70" style="vertical-align: middle;" alt="Get it on F-Droid" />
   </a>
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/">
-    <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png" height="40" style="vertical-align: middle;" alt="Get it on Obtainium" />
+    <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png" height="50" style="vertical-align: middle;" alt="Get it on Obtainium" />
   </a>
 </p>
     
