@@ -29,26 +29,17 @@
 - Open any YouTube or YouTube Music link (videos, playlists, channels, etc.) right in ViChord        
         
 ## Installation
-
-<p align="center">
-  <span>
-    <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-      <img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" height="90" style="vertical-align: middle;" alt="Get it on GitHub" />
-      <br><b>Get it on GitHub</b>
-    </a>
-  </span>&nbsp;&nbsp;&nbsp;
-  <span>
-    <a href="https://repo.vichord.app/">
-      <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="90" style="vertical-align: middle;" alt="Get it on F-Droid" />
-      <br><b>Get it on F-Droid</b>
-    </a>
-  </span>&nbsp;&nbsp;&nbsp;
-  <span>
-    <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/">
-      <img src="https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/badge_obtainium.png" height="60" style="vertical-align: middle;" alt="Get it on Obtainium" />
-      <br><b>Get it on Obtainium</b>
-    </a>
-  </span>
+      
+<p align="center">      
+  <a href="https://github.com/25huizengek1/ViChord/releases/latest" style="margin: 15px;">      
+    <img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png?raw=true" height="80" style="vertical-align: middle;" alt="Get it on GitHub" />      
+  </a>      
+  <a href="https://repo.vichord.app/" style="margin: 15px;">      
+    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="80" style="vertical-align: middle;" alt="Get it on F-Droid" />      
+  </a>      
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="margin: 15px;">      
+    <img src="https://github.com/user-attachments/assets/713d71c5-3dec-4ec4-a3f2-8d28d025a9c6" height="80" style="vertical-align: middle;" alt="Get it on Obtainium" />      
+  </a>      
 </p>
     
 ## Acknowledgments        
