@@ -1,30 +1,35 @@
-<div align="center">        
-    <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>        
-    <h1>ViChord</h1>        
-    <p>An Android application for seamless music streaming</p>        
+<div align="center">
+    <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
+    <h1>ViChord</h1>
+    <p>An Android application for seamless music streaming</p>
+    <br>
 
     <!-- Badges -->
-    <p>
-        <img src="https://img.shields.io/github/v/release/25huizengek1/ViChord?style=for-the-badge" alt="Latest Release" />
-        <a href="https://t.me/vichord"><img src="https://img.shields.io/badge/We_are-Telegram-blue?style=for-the-badge" alt="Telegram" /></a>
-        <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
-    </p>
-</div>        
-        
----        
-        
-<p align="center">        
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="30%" />        
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="30%" />        
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="30%" />        
-        
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="30%" />        
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" width="30%" />        
-  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="30%" />        
-</p>        
+    <a href="https://github.com/25huizengek1/ViChord/releases/latest">
+        <img src="https://img.shields.io/github/v/release/25huizengek1/ViChord?label=Latest%20Release&style=for-the-badge" alt="Latest Release">
+    </a>
+    <a href="https://t.me/ViChordApp">
+        <img src="https://img.shields.io/badge/Join-Telegram-blue?logo=telegram&style=for-the-badge" alt="Join Telegram">
+    </a>
+    <a href="https://github.com/25huizengek1/ViChord/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/25huizengek1/ViChord?label=License&style=for-the-badge" alt="License">
+    </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="30%" />
+  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="30%" />
+  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="30%" />
+  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="30%" />
+  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" width="30%" />
+  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="30%" />
+</p>
 
 ## Why ViChord?
-ViChord is designed with **ultimate optimization** even for older devices, ensuring **lightning-fast audio loading**, **energy-efficient performance** with minimal battery drain, and an **extensive range of customization** options to make your listening experience truly personal.
+
+ViChord is crafted for music lovers who demand performance and flexibility. Optimized for older devices, it delivers **blazing-fast audio loading** and **superior battery efficiency**, ensuring minimal power consumption. With **extensive customization options**, you can tailor your listening experience to perfection, making ViChord the ultimate choice for seamless music streaming.
 
 ---
 
@@ -49,39 +54,43 @@ ViChord is designed with **ultimate optimization** even for older devices, ensur
 
 ## Installation
 
-<div align="center">
-    <a href="https://github.com/25huizengek1/ViChord/releases/latest" style="text-decoration: none; margin: 10px;">
-        <div style="display:inline-block; padding:10px 20px; border-radius:8px; background-color:#24292e; color:white; font-weight:bold;">
-            📦 GitHub Releases
-        </div>
-    </a>
-    <a href="https://repo.vichord.app/" style="text-decoration: none; margin: 10px;">
-        <div style="display:inline-block; padding:10px 20px; border-radius:8px; background-color:#4caf50; color:white; font-weight:bold;">
-            🤖 F-Droid Repository
-        </div>
-    </a>
-    <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="text-decoration: none; margin: 10px;">
-        <div style="display:inline-block; padding:10px 20px; border-radius:8px; background-color:#ff9800; color:white; font-weight:bold;">
-            🔗 Get it on Obtainium
-        </div>
-    </a>
-</div>
+<p align="center">
+  <!-- GitHub Releases -->
+  <a href="https://github.com/25huizengek1/ViChord/releases/latest" style="margin: 10px;">
+    <img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png?raw=true" height="80" style="vertical-align: middle;" alt="Get it on GitHub">
+  </a>
+
+  <!-- F-Droid -->
+  <a href="https://repo.vichord.app/" style="margin: 10px;">
+    <img src="https://f-droid.org/badge/get-it-on.png" height="80" style="vertical-align: middle;" alt="Get it on F-Droid">
+  </a>
+
+  <!-- Obtainium -->
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/713d71c5-3dec-4ec4-a3f2-8d28d025a9c6" height="80" style="vertical-align: middle;" alt="Get it on Obtainium">
+  </a>
+</p>
+
+---
 
 ## 💬 Community and Contribution
-Join the community and help improve ViChord:
 
-* [GitHub Issues](https://github.com/25huizengek1/ViChord/issues) — Report bugs or request features
-* [GitHub Discussions](https://github.com/25huizengek1/ViChord/discussions) — Chat with other users and share ideas
-* [Contribution Guidelines](https://github.com/25huizengek1/ViChord/blob/main/CONTRIBUTING.md) — Learn how to contribute to the project
+We love hearing from our community! Join the conversation, share feedback, or contribute to ViChord's development:
 
-## Acknowledgments        
-        
-- [**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A Python script that discovers hidden YouTube API clients. Just a research project.        
-- [**ionicons**](https://github.com/ionic-team/ionicons): Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.        
-- [**Flaticon: Ilham Fitrotul Hayat**](https://www.flaticon.com/authors/ilham-fitrotul-hayat): the app's logo uses a music note icon.        
-        
-## Disclaimer        
-        
-This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC or any of its affiliates and subsidiaries.        
-        
+- 🐛 Report bugs or suggest features on our [GitHub Issues](https://github.com/25huizengek1/ViChord/issues)
+- 💬 Discuss ideas and connect with others on our [GitHub Discussions](https://github.com/25huizengek1/ViChord/discussions)
+- 🤝 Learn how to contribute via our [Contribution Guidelines](https://github.com/25huizengek1/ViChord/blob/main/CONTRIBUTING.md)
+
+---
+
+## Acknowledgments
+
+- [**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A Python script that discovers hidden YouTube API clients. Just a research project.
+- [**ionicons**](https://github.com/ionic-team/ionicons): Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.
+- [**Flaticon: Ilham Fitrotul Hayat**](https://www.flaticon.com/authors/ilham-fitrotul-hayat): the app's logo uses a music note icon.
+
+## Disclaimer
+
+This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC or any of its affiliates and subsidiaries.
+
 Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by the respective owners.
