@@ -1,18 +1,18 @@
 <div align="center">
-    <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
+    <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto" />
     <h1>ViChord</h1>
     <p>An Android application for seamless music streaming</p>
     <br>
 
-    <!-- Top badges (working shields.io badges) -->
-    <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-        <img src="https://img.shields.io/github/v/release/25huizengek1/ViChord?label=Latest%20Release&style=for-the-badge" alt="Latest Release">
+    <!-- Top badges (shields.io) -->
+    <a href="https://github.com/25huizengek1/ViChord/releases/latest" style="margin-right:6px">
+        <img src="https://img.shields.io/github/v/release/25huizengek1/ViChord?label=Latest%20Release&style=for-the-badge" alt="Latest Release" />
     </a>
-    <a href="https://t.me/ViChordApp">
-        <img src="https://img.shields.io/badge/Join-Telegram-blue?logo=telegram&style=for-the-badge" alt="Join Telegram">
+    <a href="https://t.me/ViChordApp" style="margin-right:6px">
+        <img src="https://img.shields.io/badge/Join-Telegram-blue?logo=telegram&style=for-the-badge" alt="Join Telegram" />
     </a>
     <a href="https://github.com/25huizengek1/ViChord/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/25huizengek1/ViChord?label=License&style=for-the-badge" alt="License">
+        <img src="https://img.shields.io/github/license/25huizengek1/ViChord?label=License&style=for-the-badge" alt="License" />
     </a>
 </div>
 
@@ -55,19 +55,21 @@ ViChord is crafted for music lovers who demand performance and flexibility. Opti
 ## Installation
 
 <p align="center">
-  <!-- GitHub Releases (shields.io badge styled as button) -->
+  <!-- GitHub (shields.io badge with github logo) -->
   <a href="https://github.com/25huizengek1/ViChord/releases/latest" style="margin: 12px;">
-    <img src="https://img.shields.io/static/v1?label=Get%20it%20on&message=GitHub&color=24292e&style=for-the-badge&logo=github&logoColor=white" height="48" alt="Get it on GitHub">
+    <img src="https://img.shields.io/static/v1?label=Get%20it%20on&message=GitHub&color=24292e&style=for-the-badge&logo=github&logoColor=white" height="48" alt="Get it on GitHub" />
   </a>
 
-  <!-- F-Droid (shields.io badge styled like other badges) -->
+  <!-- F-Droid (shields.io with f-droid logo + black color) -->
   <a href="https://repo.vichord.app/" style="margin: 12px;">
-    <img src="https://img.shields.io/static/v1?label=Get%20it%20on&message=F-Droid&color=000000&style=for-the-badge&logo=f-droid&logoColor=white" height="48" alt="Get it on F-Droid">
+    <img src="https://img.shields.io/static/v1?label=Get%20it%20on&message=F-Droid&color=000000&style=for-the-badge&logo=f-droid&logoColor=white" height="48" alt="Get it on F-Droid" />
   </a>
 
-  <!-- Obtainium (shields.io badge using Android logo for consistency) -->
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="margin: 12px;">
-    <img src="https://img.shields.io/static/v1?label=Get%20it%20on&message=Obtainium&color=00ADEF&style=for-the-badge&logo=android&logoColor=white" height="48" alt="Get it on Obtainium">
+  <!-- Obtainium: small logo image (from repo attachments) + shields.io badge for consistent style -->
+  <!-- Replace the src below with your Obtainium-logo path if needed -->
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="margin: 12px; display:inline-flex; align-items:center; text-decoration:none;">
+    <img src="https://github.com/user-attachments/assets/713d71c5-3dec-4ec4-a3f2-8d28d025a9c6" alt="Obtainium logo" height="24" style="margin-right:8px; vertical-align:middle;" />
+    <img src="https://img.shields.io/static/v1?label=Get%20it%20on&message=Obtainium&color=00ADEF&style=for-the-badge&logo=android&logoColor=white" height="48" alt="Get it on Obtainium" />
   </a>
 </p>
 
