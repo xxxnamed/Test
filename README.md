@@ -57,10 +57,10 @@ ViChord is crafted for music lovers who demand performance and flexibility. Opti
     <img src="https://img.shields.io/badge/GitHub-Releases-24292e?style=for-the-badge&logo=github&logoColor=white" height="60" width="200" alt="GitHub Releases" />
   </a>
   <a href="https://repo.vichord.app/" style="margin: 5px;">
-    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="60" width="200" alt="Get it on F-Droid" />
+    <img src="https://img.shields.io/badge/F-Droid-Repository-00a1d6?style=for-the-badge&logo=fdroid&logoColor=white" height="60" width="200" alt="F-Droid Repository" />
   </a>
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="margin: 5px;">
-    <img src="https://github.com/user-attachments/assets/713d71c5-3dec-4ec4-a3f2-8d28d025a9c6" height="60" width="200" alt="Get it on Obtainium" />
+    <img src="https://img.shields.io/badge/Obtainium-Get%20it%20on-4CAF50?style=for-the-badge&logo=android&logoColor=white" height="60" width="200" alt="Get it on Obtainium" />
   </a>
 </p>
 
