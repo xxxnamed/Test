@@ -4,7 +4,7 @@
     <p>An Android application for seamless music streaming</p>
     <br>
 
-    <!-- Badges -->
+    <!-- Working badges -->
     <a href="https://github.com/25huizengek1/ViChord/releases/latest">
         <img src="https://img.shields.io/github/v/release/25huizengek1/ViChord?label=Latest%20Release&style=for-the-badge" alt="Latest Release">
     </a>
@@ -56,17 +56,17 @@ ViChord is crafted for music lovers who demand performance and flexibility. Opti
 
 <p align="center">
   <!-- GitHub Releases -->
-  <a href="https://github.com/25huizengek1/ViChord/releases/latest" style="margin: 10px;">
+  <a href="https://github.com/25huizengek1/ViChord/releases/latest" style="margin: 15px;">
     <img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png?raw=true" height="80" style="vertical-align: middle;" alt="Get it on GitHub">
   </a>
 
   <!-- F-Droid -->
-  <a href="https://repo.vichord.app/" style="margin: 10px;">
+  <a href="https://repo.vichord.app/" style="margin: 15px;">
     <img src="https://f-droid.org/badge/get-it-on.png" height="80" style="vertical-align: middle;" alt="Get it on F-Droid">
   </a>
 
   <!-- Obtainium -->
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="margin: 10px;">
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="margin: 15px;">
     <img src="https://github.com/user-attachments/assets/713d71c5-3dec-4ec4-a3f2-8d28d025a9c6" height="80" style="vertical-align: middle;" alt="Get it on Obtainium">
   </a>
 </p>
