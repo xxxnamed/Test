@@ -53,23 +53,23 @@ ViChord is crafted for music lovers who demand performance and flexibility. Opti
 ## Installation
 
 <div align="center">
-  <a href="https://github.com/25huizengek1/ViChord/releases/latest" style="text-decoration: none; margin: 5px;">
-    <button style="padding: 10px 20px; border: 1px solid #333; border-radius: 5px; background-color: #24292e; color: white; font-size: 16px; display: inline-flex; align-items: center;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" height="24" style="margin-right: 10px;" alt="GitHub Logo"/>
+  <a href="https://github.com/25huizengek1/ViChord/releases/latest" style="margin: 5px; text-decoration: none;">
+    <span style="background-color: #24292e; padding: 10px 15px; border-radius: 5px; color: white; font-size: 16px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" alt="GitHub Logo"/>
       GitHub Releases
-    </button>
+    </span>
   </a>
-  <a href="https://repo.vichord.app/" style="text-decoration: none; margin: 5px;">
-    <button style="padding: 10px 20px; border: 1px solid #333; border-radius: 5px; background-color: #00a1d6; color: white; font-size: 16px; display: inline-flex; align-items: center;">
-      <img src="https://f-droid.org/assets/favicon-32x32.png" width="24" height="24" style="margin-right: 10px;" alt="F-Droid Logo"/>
+  <a href="https://repo.vichord.app/" style="margin: 5px; text-decoration: none;">
+    <span style="background-color: #00a1d6; padding: 10px 15px; border-radius: 5px; color: white; font-size: 16px;">
+      <img src="https://f-droid.org/assets/favicon-32x32.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" alt="F-Droid Logo"/>
       F-Droid Repository
-    </button>
+    </span>
   </a>
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="text-decoration: none; margin: 5px;">
-    <button style="padding: 10px 20px; border: 1px solid #333; border-radius: 5px; background-color: #4CAF50; color: white; font-size: 16px; display: inline-flex; align-items: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Android_logo_2023_%28stacked%29.svg/32px-Android_logo_2023_%28stacked%29.svg.png" width="24" height="24" style="margin-right: 10px;" alt="Obtainium Logo"/>
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="margin: 5px; text-decoration: none;">
+    <span style="background-color: #4CAF50; padding: 10px 15px; border-radius: 5px; color: white; font-size: 16px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Android_logo_2023_%28stacked%29.svg/32px-Android_logo_2023_%28stacked%29.svg.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" alt="Obtainium Logo"/>
       Get it on Obtainium
-    </button>
+    </span>
   </a>
 </div>
 
