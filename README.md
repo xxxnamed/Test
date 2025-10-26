@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=white" alt="Latest Release">
     </a>
     <a href="https://t.me/vichord">
-        <img src="https://img.shields.io/badge/Join%20us%20on-white?logo=telegram"
+        <img src="https://img.shields.io/badge/Join%20us%20on-white?logo=telegram&logoColor=white"
     </a>
     <img src="https://img.shields.io/badge/License-MIT-white" alt="License">
 </div>
