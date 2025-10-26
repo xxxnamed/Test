@@ -78,6 +78,4 @@ for Ionic apps and web apps everywhere.
 app's logo uses a music note icon.
 
 ## Disclaimer
-This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any        
-way associated with YouTube, Google LLC or any of its affiliates and subsidiaries.        Any trademark, service mark, trade name, or other intellectual property rights used in this project        
-are owned by the respective owners.
+This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC or any of its affiliates and subsidiaries. Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by the respective owners.
