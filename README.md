@@ -6,9 +6,10 @@
         <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=emerald" alt="Latest Release" style="height: 25px; margin: 5px;">
     </a>
     <a href="https://t.me/vichord">
-        <img src="https://img.shields.io/badge/-Join%20us-black?style=flat&logo=telegram&logoColor=white" alt="Join us on Telegram" style="height: 25px; margin: 5px;">
+        <img src="https://img.shields.io/badge/-Join%20us-white?style=flat&logo=telegram&logoColor=%232CA5E0" alt="Join us on Telegram" style="height: 25px; margin: 5px;">
     </a>
-    
+</div>
+
 ---
 
 <p align="center">
@@ -50,13 +51,13 @@ Enjoy an optimized listening experience with audio normalization
 ## Installation
 <p align="center">
   <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20GitHub&logo=github&logoColor=white&style=for-the-badge&color=333333&logoWidth=38" alt="Get it on GitHub" style="height: 40px; width: 250px; margin: 0 20px;">
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20GitHub&logo=github&logoColor=white&style=for-the-badge&color=444444&logoWidth=40" alt="Get it on GitHub" style="height: 45px; width: 300px; margin: 0 20px;">
   </a>
   <a href="https://repo.vichord.app/">
-    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20F-Droid&logo=f-droid&logoColor=white&style=for-the-badge&color=333333&logoWidth=34" alt="Get it on F-Droid" style="height: 40px; width: 250px; margin: 0 20px;">
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20F-Droid&logo=f-droid&logoColor=white&style=for-the-badge&color=444444&logoWidth=40" alt="Get it on F-Droid" style="height: 45px; width: 300px; margin: 0 20px;">
   </a>
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/">
-    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20Obtainium&logo=obtainium&logoColor=white&style=for-the-badge&color=333333&logoWidth=38" alt="Get it on Obtainium" style="height: 40px; width: 250px; margin: 0 20px;">
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20Obtainium&logo=obtainium&logoColor=white&style=for-the-badge&color=444444&logoWidth=40" alt="Get it on Obtainium" style="height: 45px; width: 300px; margin: 0 20px;">
   </a>
 </p>
 
