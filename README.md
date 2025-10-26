@@ -1,16 +1,13 @@
 <div align="center">
     <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>ViChord</h1>
-    <p>An Android application for seamless music streaming</p>
+    <p>An Android music player</p>
     <a href="https://github.com/25huizengek1/ViChord/releases/latest">
         <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=white" alt="Latest Release" style="height: 25px; margin: 5px;">
     </a>
     <a href="https://t.me/vichord">
         <img src="https://img.shields.io/badge/-Join%20us-white?style=flat&logo=telegram&logoColor=%232CA5E0" alt="Join us on Telegram" style="height: 25px; margin: 5px;">
     </a>
-    <img src="https://img.shields.io/badge/License-MIT-white" alt="License" style="height: 25px; margin: 5px;">
-</div>
-
 ---
 
 <p align="center">
