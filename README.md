@@ -5,10 +5,7 @@
     <a href="https://github.com/25huizengek1/ViChord/releases/latest">
         <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=white" alt="Latest Release">
     </a>
-    <a href="https://t.me/vichord" styl<a href="https://t.me/vichord" style="display: inline-flex; align-items: center; background-color: #000; color: #fff; text-decoration: none; font-family: sans-serif; padding: 6px 10px; border-radius: 6px; font-weight: bold;">
-  <span>Join us on</span>
-  <img src="https://cdn.simpleicons.org/telegram/FFFFFF" alt="Telegram" style="width: 18px; height: 18px; margin-left: 6px;">
-    </a>
+    <a href="https://t.me/vichord" style="background-color: black; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold;">Join us on <img src="https://www.iconsdb.com/icons/download/white/telegram-512.png" alt="Telegram" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"></a>
     <img src="https://img.shields.io/badge/License-MIT-white" alt="License">
 </div>
 
