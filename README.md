@@ -1,4 +1,7 @@
 <div align="center">
+    <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
+    <h1>ViChord</h1>
+    <p>An Android application for seamless music streaming</p>
     <a href="https://github.com/25huizengek1/ViChord/releases/latest">
         <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=blue" alt="Latest Release">
     </a>
@@ -6,10 +9,6 @@
         <img src="https://img.shields.io/badge/Join%20us%20on-Telegram-blue?logo=telegram" alt="Join us on Telegram">
     </a>
     <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
-    
-    <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
-    <h1>ViChord</h1>
-    <p>An Android application for seamless music streaming</p>
 </div>
 
 ---
@@ -49,13 +48,13 @@ ViChord is engineered for superior optimization, running smoothly even on older 
 ## Installation
 <p align="center">
   <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-    <img src="https://img.shields.io/static/v1?label=&message=GitHub%20Releases&logo=github&logoColor=white&style=for-the-badge&color=24292e" alt="GitHub Releases">
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20GitHub&logo=github&logoColor=white&style=for-the-badge&color=24292e" alt="Get it on GitHub">
   </a>
   <a href="https://repo.vichord.app/">
-    <img src="https://img.shields.io/static/v1?label=&message=Repository&logo=f-droid&logoColor=black&style=for-the-badge&color=3ddc84" alt="Repository">
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20F-Droid&logo=f-droid&logoColor=black&style=for-the-badge&color=3ddc84" alt="Get it on F-Droid">
   </a>
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/">
-    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20Obtainium&logo=obtainium&logoColor=white&style=for-the-badge&color=2196f3" alt="Get it on Obtainium">
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20Obtainium&logo=android&logoColor=9c27b0&style=for-the-badge&color=2196f3" alt="Get it on Obtainium">
   </a>
 </p>
 
