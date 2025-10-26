@@ -47,7 +47,8 @@ View lyrics — fetch, edit, and even sync them
 
 Cloud-sync your playlists seamlessly
 
-Enjoy an optimized listening experience with audio normalization  
+Enjoy an optimized listening experience with audio normalization
+
 ---
 
 ## Installation
@@ -77,7 +78,7 @@ We value your input and encourage contributions to make ViChord even better!
 [**ionicons**](https://github.com/ionic-team/ionicons): Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.        
 [**Flaticon: Ilham Fitrotul Hayat**](https://www.flaticon.com/authors/ilham-fitrotul-hayat): the app's logo uses a music note icon.
 
-**---**
+---
 
 ## Disclaimer
 This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC or any of its affiliates and subsidiaries. Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by the respective owners.
