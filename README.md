@@ -3,7 +3,7 @@
     <h1>ViChord</h1>
     <p>An Android music player</p>
     <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-        <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=white" alt="Latest Release" style="height: 25px; margin: 5px;">
+        <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=black" alt="Latest Release" style="height: 25px; margin: 5px;">
     </a>
     <a href="https://t.me/vichord">
         <img src="https://img.shields.io/badge/-Join%20us-black?style=flat&logo=telegram&logoColor=white" alt="Join us on Telegram" style="height: 25px; margin: 5px;">
