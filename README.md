@@ -1,9 +1,10 @@
 <div align="center">
     <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-        <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=blue" alt="Latest Release">
+        <img src="https://img.shields.io/static/v1?label=Latest%20Version&message=v0.5.4&color=blue" alt="Latest Version">
     </a>
+    <img src="https://img.shields.io/static/v1?label=Release%20Date&message=2025-10-26&color=green" alt="Release Date">
     <a href="https://t.me/vichord">
-        <img src="https://img.shields.io/badge/Join-Telegram-blue?logo=telegram" alt="Join Telegram">
+        <img src="https://img.shields.io/badge/Join%20us%20on-Telegram-blue?logo=telegram" alt="Join us on Telegram">
     </a>
     <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
     
@@ -32,30 +33,42 @@ ViChord is engineered for superior optimization, running smoothly even on older 
 ## Features
 
 ### Core Music Experience
-- **Play (almost)** any audio from multiple sources — mainly YouTube
-- **Keep listening** in the background or even offline — with cached songs
-- **Search through** songs, albums, artists, videos, and playlists
+**Play (almost)** any audio from multiple sources — mainly YouTube  
+**Keep listening** in the background or even offline — with cached songs  
+**Search through** songs, albums, artists, videos, and playlists  
 
 ### Integration and Convenience
-- **Import your** playlists straight from YouTube
-- **Open any** YouTube or YouTube Music link (videos, playlists, channels, etc.) right in ViChord
-- **Android Auto** ready
+**Import your** playlists straight from YouTube  
+**Open any** YouTube or YouTube Music link (videos, playlists, channels, etc.) right in ViChord  
+**Android Auto** ready  
 
 ### Quality and Customization
-- **View lyrics** — fetch, edit, and even sync them
-- **Cloud-sync your** playlists seamlessly
-- **Enjoy an** optimized listening experience with audio normalization
+**View lyrics** — fetch, edit, and even sync them  
+**Cloud-sync your** playlists seamlessly  
+**Enjoy an** optimized listening experience with audio normalization  
 
 ## Installation
 <p align="center">
-  <a href="https://github.com/25huizengek1/ViChord/releases/latest" style="background-color: #24292e; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; display: inline-flex; align-items: center;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" style="margin-right: 8px;"> GitHub Releases
+  <a href="https://github.com/25huizengek1/ViChord/releases/latest">
+    <svg width="160" height="40" xmlns="http://www.w3.org/2000/svg">
+      <rect width="160" height="40" fill="#24292e" rx="5"/>
+      <image href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" x="10" y="10" width="20" height="20"/>
+      <text x="40" y="27" fill="white" font-size="14" font-weight="bold">GitHub Releases</text>
+    </svg>
   </a>
-  <a href="https://repo.vichord.app/" style="background-color: #3ddc84; color: black; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; display: inline-flex; align-items: center;">
-    <img src="https://gitlab.com/fdroid/artwork/-/raw/master/fdroid-icon.png" width="20" height="20" style="margin-right: 8px;"> Get it on F-Droid
+  <a href="https://repo.vichord.app/">
+    <svg width="140" height="40" xmlns="http://www.w3.org/2000/svg">
+      <rect width="140" height="40" fill="#3ddc84" rx="5"/>
+      <image href="https://gitlab.com/fdroid/artwork/-/raw/master/fdroid-icon.png" x="10" y="10" width="20" height="20"/>
+      <text x="40" y="27" fill="black" font-size="14" font-weight="bold">Repository</text>
+    </svg>
   </a>
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/" style="background-color: #2196f3; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; margin: 10px; font-weight: bold; display: inline-flex; align-items: center;">
-    <img src="https://github.com/ImranR98/Obtainium/raw/main/fastlane/metadata/android/en-US/images/icon.png" width="20" height="20" style="margin-right: 8px;"> Get it on Obtainium
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/">
+    <svg width="180" height="40" xmlns="http://www.w3.org/2000/svg">
+      <rect width="180" height="40" fill="#2196f3" rx="5"/>
+      <image href="https://github.com/ImranR98/Obtainium/raw/main/fastlane/metadata/android/en-US/images/icon.png" x="10" y="10" width="20" height="20"/>
+      <text x="40" y="27" fill="white" font-size="14" font-weight="bold">Get via Obtainium</text>
+    </svg>
   </a>
 </p>
 
