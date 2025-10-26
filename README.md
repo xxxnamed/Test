@@ -51,7 +51,7 @@ ViChord is engineered for superior optimization, running smoothly even on older 
     <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20GitHub&logo=github&logoColor=white&style=for-the-badge&color=24292e" alt="Get it on GitHub">
   </a>
   <a href="https://repo.vichord.app/">
-    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20F-Droid&logo=f-droid&logoColor=black&style=for-the-badge&color=24292e" alt="Get it on F-Droid">
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20F-Droid&logo=f-droid&logoColor=whitek&style=for-the-badge&color=24292e" alt="Get it on F-Droid">
   </a>
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/">
     <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20Obtainium&logo=android&logoColor=9c27b0&style=for-the-badge&color=24292e" alt="Get it on Obtainium">
