@@ -8,6 +8,7 @@
     <a href="https://t.me/vichord">
         <img src="https://img.shields.io/badge/-Join%20us-white?style=flat&logo=telegram&logoColor=%232CA5E0" alt="Join us on Telegram" style="height: 25px; margin: 5px;">
     </a>
+    
 ---
 
 <p align="center">
