@@ -29,19 +29,25 @@ ViChord is engineered for superior optimization, running smoothly even on older 
 ## Features
 
 ### Core Music Experience
-**Play (almost)** any audio from multiple sources — mainly YouTube  
-**Keep listening** in the background or even offline — with cached songs  
-**Search through** songs, albums, artists, videos, and playlists  
+Play (almost) any audio from multiple sources — mainly YouTube
+
+Keep listening in the background or even offline — with cached songs
+
+Search through songs, albums, artists, videos, and playlists  
 
 ### Integration and Convenience
-**Import your** playlists straight from YouTube  
-**Open any** YouTube or YouTube Music link (videos, playlists, channels, etc.) right in ViChord  
-**Android Auto** ready  
+Import your playlists straight from YouTube
+
+Open any YouTube or YouTube Music link (videos, playlists, channels, etc.) right in ViChord  
+
+Android Auto ready  
 
 ### Quality and Customization
-**View lyrics** — fetch, edit, and even sync them  
-**Cloud-sync your** playlists seamlessly  
-**Enjoy an** optimized listening experience with audio normalization  
+View lyrics — fetch, edit, and even sync them
+
+Cloud-sync your playlists seamlessly
+
+Enjoy an optimized listening experience with audio normalization  
 
 ## Installation
 <p align="center">
