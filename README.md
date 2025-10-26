@@ -49,13 +49,13 @@ ViChord is engineered for superior optimization, running smoothly even on older 
 ## Installation
 <p align="center">
   <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjAiIGhlaWdodD0iNDAiPgogICAgPHJlY3Qgd2lkdGg9IjE2MCIgaGVpZ2h0PSI0MCIgcng9IjUiIGZpbGw9IiMyNDI5MmUiLz4KICAgIDxpbWFnZSBocmVmPSJodHRwczovL2dpdGh1Yi5naXRodWJhc3NldHMuY29tL2ltYWdlcy9tb2R1bGVzL2xvZ29zX3BhZ2UvR2l0SHViLU1hcmsucG5nIiB4PSIxMCIgeT0iMTAiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIvPgogICAgPHRleHQgeD0iNDAiIHk9IjI3IiBmaWxsPSJ3aGl0ZSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIj5HaXRIdWIgUmVsZWFzZXM8L3RleHQ+CiAgICA8L3N2Zz4=" alt="GitHub Releases">
+    <img src="https://img.shields.io/static/v1?label=&message=GitHub%20Releases&logo=github&logoColor=white&style=for-the-badge&color=24292e" alt="GitHub Releases">
   </a>
   <a href="https://repo.vichord.app/">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iNDAiPgogICAgPHJlY3Qgd2lkdGg9IjE4MCIgaGVpZ2h0PSI0MCIgcng9IjUiIGZpbGw9IiMzZGRjODQiLz4KICAgIDxpbWFnZSBocmVmPSJodHRwczovL2dpdGxhYi5jb20vZmRyb2lkL2FydHdvcmsvLS9yYXcvbWFzdGVyL2Zkcm9pZC1pY29uLnBuZyIgeD0iMTAiIHk9IjEwIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiLz4KICAgIDx0ZXh0IHg9IjQwIiB5PSIyNyIgZmlsbD0iYmxhY2siIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCI+UmVwb3NpdG9yeTwvdGV4dD4KICAgIDwvc3ZnPg==" alt="Repository">
+    <img src="https://img.shields.io/static/v1?label=&message=Repository&logo=f-droid&logoColor=black&style=for-the-badge&color=3ddc84" alt="Repository">
   </a>
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iNDAiPgogICAgPHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSI0MCIgcng9IjUiIGZpbGw9IiMyMTk2ZjMiLz4KICAgIDxpbWFnZSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vSW1yYW5SOTgvT2J0YWluaXVtL3Jhdy9tYWluL2Zhc3RsYW5lL21ldGFkYXRhL2FuZHJvaWQvZW4tVVMvaW1hZ2VzL2ljb24ucG5nIiB4PSIxMCIgeT0iMTAiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIvPgogICAgPHRleHQgeD0iNDAiIHk9IjI3IiBmaWxsPSJ3aGl0ZSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIj5HZXQgaXQgb24gT2J0YWluaXVtPC90ZXh0PgogICAgPC9zdmc+" alt="Get it on Obtainium">
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20Obtainium&logo=obtainium&logoColor=white&style=for-the-badge&color=2196f3" alt="Get it on Obtainium">
   </a>
 </p>
 
