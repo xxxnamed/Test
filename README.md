@@ -24,8 +24,6 @@
 ## Why ViChord?
 ViChord is engineered for superior optimization, running smoothly even on older Android phones. It boasts the fastest audio loading speeds in its class, exceptional battery efficiency to conserve power during extended listening sessions, and a vast array of customization options to personalize your music experience to perfection.
 
----
-
 ## Features
 
 ### Core Music Experience
@@ -49,8 +47,6 @@ Cloud-sync your playlists seamlessly
 
 Enjoy an optimized listening experience with audio normalization
 
----
-
 ## Installation
 <p align="center">
   <a href="https://github.com/25huizengek1/ViChord/releases/latest">
@@ -63,8 +59,6 @@ Enjoy an optimized listening experience with audio normalization
     <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20Obtainium&logo=obtainium&logoColor=white&style=for-the-badge&color=333333&logoWidth=38" alt="Get it on Obtainium" style="height: 40px; width: 250px; margin: 0 20px;">
   </a>
 </p>
-
----
 
 ## Community and Contribution
 We value your input and encourage contributions to make ViChord even better!
