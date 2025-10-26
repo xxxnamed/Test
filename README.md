@@ -3,12 +3,12 @@
     <h1>ViChord</h1>
     <p>An Android application for seamless music streaming</p>
     <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-        <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=white" alt="Latest Release"> alt="License">
+        <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=white" alt="Latest Release">
     </a>
     <a href="https://t.me/vichord">
         <img src="https://img.shields.io/badge/Join%20us%20on-Telegram-white?logo=telegram" alt="Join us">
     </a>
-    <img src="https://img.shields.io/badge/License-MIT-white"
+    <img src="https://img.shields.io/badge/License-MIT-white" alt="License">
 </div>
 
 ---
