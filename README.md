@@ -48,6 +48,7 @@ View lyrics — fetch, edit, and even sync them
 Cloud-sync your playlists seamlessly
 
 Enjoy an optimized listening experience with audio normalization  
+---
 
 ## Installation
 <p align="center">
@@ -62,6 +63,8 @@ Enjoy an optimized listening experience with audio normalization
   </a>
 </p>
 
+---
+
 ## Community and Contribution
 We value your input and encourage contributions to make ViChord even better!
 
@@ -70,12 +73,11 @@ We value your input and encourage contributions to make ViChord even better!
 - Learn how to contribute: [Contribution Guidelines](https://github.com/25huizengek1/ViChord/blob/main/CONTRIBUTING.md)
 
 ## Acknowledgments
-[**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A Python        
-script that discovers hidden YouTube API clients. Just a research project.        
-[**ionicons**](https://github.com/ionic-team/ionicons): Premium hand-crafted icons built by Ionic,        
-for Ionic apps and web apps everywhere.        
-[**Flaticon: Ilham Fitrotul Hayat**](https://www.flaticon.com/authors/ilham-fitrotul-hayat): the        
-app's logo uses a music note icon.
+[**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A Python script that discovers hidden YouTube API clients. Just a research project.        
+[**ionicons**](https://github.com/ionic-team/ionicons): Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.        
+[**Flaticon: Ilham Fitrotul Hayat**](https://www.flaticon.com/authors/ilham-fitrotul-hayat): the app's logo uses a music note icon.
+
+**---**
 
 ## Disclaimer
 This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC or any of its affiliates and subsidiaries. Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by the respective owners.
