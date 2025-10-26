@@ -1,8 +1,7 @@
 <div align="center">
     <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-        <img src="https://img.shields.io/static/v1?label=Latest%20Version&message=v0.5.4&color=blue" alt="Latest Version">
+        <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=blue" alt="Latest Release">
     </a>
-    <img src="https://img.shields.io/static/v1?label=Release%20Date&message=2025-10-26&color=green" alt="Release Date">
     <a href="https://t.me/vichord">
         <img src="https://img.shields.io/badge/Join%20us%20on-Telegram-blue?logo=telegram" alt="Join us on Telegram">
     </a>
@@ -50,25 +49,13 @@ ViChord is engineered for superior optimization, running smoothly even on older 
 ## Installation
 <p align="center">
   <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-    <svg width="160" height="40" xmlns="http://www.w3.org/2000/svg">
-      <rect width="160" height="40" fill="#24292e" rx="5"/>
-      <image href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" x="10" y="10" width="20" height="20"/>
-      <text x="40" y="27" fill="white" font-size="14" font-weight="bold">GitHub Releases</text>
-    </svg>
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjAiIGhlaWdodD0iNDAiPgogICAgPHJlY3Qgd2lkdGg9IjE2MCIgaGVpZ2h0PSI0MCIgcng9IjUiIGZpbGw9IiMyNDI5MmUiLz4KICAgIDxpbWFnZSBocmVmPSJodHRwczovL2dpdGh1Yi5naXRodWJhc3NldHMuY29tL2ltYWdlcy9tb2R1bGVzL2xvZ29zX3BhZ2UvR2l0SHViLU1hcmsucG5nIiB4PSIxMCIgeT0iMTAiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIvPgogICAgPHRleHQgeD0iNDAiIHk9IjI3IiBmaWxsPSJ3aGl0ZSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIj5HaXRIdWIgUmVsZWFzZXM8L3RleHQ+CiAgICA8L3N2Zz4=" alt="GitHub Releases">
   </a>
   <a href="https://repo.vichord.app/">
-    <svg width="140" height="40" xmlns="http://www.w3.org/2000/svg">
-      <rect width="140" height="40" fill="#3ddc84" rx="5"/>
-      <image href="https://gitlab.com/fdroid/artwork/-/raw/master/fdroid-icon.png" x="10" y="10" width="20" height="20"/>
-      <text x="40" y="27" fill="black" font-size="14" font-weight="bold">Repository</text>
-    </svg>
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iNDAiPgogICAgPHJlY3Qgd2lkdGg9IjE4MCIgaGVpZ2h0PSI0MCIgcng9IjUiIGZpbGw9IiMzZGRjODQiLz4KICAgIDxpbWFnZSBocmVmPSJodHRwczovL2dpdGxhYi5jb20vZmRyb2lkL2FydHdvcmsvLS9yYXcvbWFzdGVyL2Zkcm9pZC1pY29uLnBuZyIgeD0iMTAiIHk9IjEwIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiLz4KICAgIDx0ZXh0IHg9IjQwIiB5PSIyNyIgZmlsbD0iYmxhY2siIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCI+UmVwb3NpdG9yeTwvdGV4dD4KICAgIDwvc3ZnPg==" alt="Repository">
   </a>
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/">
-    <svg width="180" height="40" xmlns="http://www.w3.org/2000/svg">
-      <rect width="180" height="40" fill="#2196f3" rx="5"/>
-      <image href="https://github.com/ImranR98/Obtainium/raw/main/fastlane/metadata/android/en-US/images/icon.png" x="10" y="10" width="20" height="20"/>
-      <text x="40" y="27" fill="white" font-size="14" font-weight="bold">Get via Obtainium</text>
-    </svg>
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iNDAiPgogICAgPHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSI0MCIgcng9IjUiIGZpbGw9IiMyMTk2ZjMiLz4KICAgIDxpbWFnZSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vSW1yYW5SOTgvT2J0YWluaXVtL3Jhdy9tYWluL2Zhc3RsYW5lL21ldGFkYXRhL2FuZHJvaWQvZW4tVVMvaW1hZ2VzL2ljb24ucG5nIiB4PSIxMCIgeT0iMTAiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIvPgogICAgPHRleHQgeD0iNDAiIHk9IjI3IiBmaWxsPSJ3aGl0ZSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIj5HZXQgaXQgb24gT2J0YWluaXVtPC90ZXh0PgogICAgPC9zdmc+" alt="Get it on Obtainium">
   </a>
 </p>
 
