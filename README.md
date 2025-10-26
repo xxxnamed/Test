@@ -1,44 +1,14 @@
 <div align="center">
-  <img 
-    src="./app/src/main/ic_launcher-playstore.png" 
-    width="128" 
-    height="128" 
-    style="display: block; margin: 0 auto;"
-  />
-
-  <h1>ViChord</h1>
-  <p>An Android application for seamless music streaming</p>
-
-  <a href="https://github.com/25huizengek1/ViChord/releases/latest">
-    <img 
-      src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=white" 
-      alt="Latest Release"
-    >
-  </a>
-
-  <a 
-    href="https://t.me/vichord" 
-    style="
-      background-color: black; 
-      color: white; 
-      padding: 5px 10px; 
-      border-radius: 5px; 
-      text-decoration: none; 
-      font-weight: bold;
-    "
-  >
-    Join us on 
-    <img 
-      src="https://www.iconsdb.com/icons/download/white/telegram-512.png" 
-      alt="Telegram" 
-      style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"
-    >
-  </a>
-
-  <img 
-    src="https://img.shields.io/badge/License-MIT-white" 
-    alt="License"
-  >
+    <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
+    <h1>ViChord</h1>
+    <p>An Android application for seamless music streaming</p>
+    <a href="https://github.com/25huizengek1/ViChord/releases/latest">
+        <img src="https://img.shields.io/static/v1?label=Latest%20Release&message=v0.5.4%20-%202025-10-26&color=white" alt="Latest Release">
+    </a>
+    <a href="https://t.me/vichord">
+    <img src="https://img.shields.io/badge/Join%20us%20on%20Telegram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Join us on Telegram">
+</a>
+    <img src="https://img.shields.io/badge/License-MIT-white" alt="License">
 </div>
 
 ---
@@ -54,9 +24,7 @@
 </p>
 
 ## Why ViChord?
-
-ViChord is engineered for superior optimization, running smoothly even on older Android phones.  
-It boasts the fastest audio loading speeds in its class, exceptional battery efficiency to conserve power during extended listening sessions, and a vast array of customization options to personalize your music experience to perfection.
+ViChord is engineered for superior optimization, running smoothly even on older Android phones. It boasts the fastest audio loading speeds in its class, exceptional battery efficiency to conserve power during extended listening sessions, and a vast array of customization options to personalize your music experience to perfection.
 
 ---
 
@@ -77,59 +45,35 @@ It boasts the fastest audio loading speeds in its class, exceptional battery eff
 **Cloud-sync your** playlists seamlessly  
 **Enjoy an** optimized listening experience with audio normalization  
 
----
-
 ## Installation
-
 <p align="center">
   <a href="https://github.com/xxxnamed/ViChord/releases/latest">
-    <img 
-      src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20GitHub&logo=github&logoColor=white&style=for-the-badge&color=24292e" 
-      alt="Get it on GitHub"
-    >
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20GitHub&logo=github&logoColor=white&style=for-the-badge&color=24292e" alt="Get it on GitHub">
   </a>
-
   <a href="https://repo.vichord.app/">
-    <img 
-      src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20F-Droid&logo=f-droid&logoColor=white&style=for-the-badge&color=24292e" 
-      alt="Get it on F-Droid"
-    >
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20F-Droid&logo=f-droid&logoColor=whitek&style=for-the-badge&color=24292e" alt="Get it on F-Droid">
   </a>
-
   <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/25huizengek1/ViChord/">
-    <img 
-      src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20Obtainium&logo=obtainium&logoColor=white&style=for-the-badge&color=24292e" 
-      alt="Get it on Obtainium"
-    >
+    <img src="https://img.shields.io/static/v1?label=&message=Get%20it%20on%20Obtainium&logo=obtainium&logoColor=white&style=for-the-badge&color=24292e" alt="Get it on Obtainium">
   </a>
 </p>
 
----
-
 ## Community and Contribution
-
 We value your input and encourage contributions to make ViChord even better!
 
-- Report bugs or suggest features: [GitHub Issues](https://github.com/25huizengek1/ViChord/issues)  
-- Engage in conversations: [GitHub Discussions](https://github.com/25huizengek1/ViChord/discussions)  
+- Report bugs or suggest features: [GitHub Issues](https://github.com/25huizengek1/ViChord/issues)
+- Engage in conversations: [GitHub Discussions](https://github.com/25huizengek1/ViChord/discussions)
 - Learn how to contribute: [Contribution Guidelines](https://github.com/25huizengek1/ViChord/blob/main/CONTRIBUTING.md)
 
----
-
 ## Acknowledgments
-
-[**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients):  
-A Python script that discovers hidden YouTube API clients. Just a research project.  
-
-[**ionicons**](https://github.com/ionic-team/ionicons):  
-Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.  
-
-[**Flaticon: Ilham Fitrotul Hayat**](https://www.flaticon.com/authors/ilham-fitrotul-hayat):  
-The app's logo uses a music note icon.
-
----
+[**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A Python        
+script that discovers hidden YouTube API clients. Just a research project.        
+[**ionicons**](https://github.com/ionic-team/ionicons): Premium hand-crafted icons built by Ionic,        
+for Ionic apps and web apps everywhere.        
+[**Flaticon: Ilham Fitrotul Hayat**](https://www.flaticon.com/authors/ilham-fitrotul-hayat): the        
+app's logo uses a music note icon.
 
 ## Disclaimer
-
-This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC, or any of its affiliates and subsidiaries.  
-Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by the respective owners.
+This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any        
+way associated with YouTube, Google LLC or any of its affiliates and subsidiaries.        Any trademark, service mark, trade name, or other intellectual property rights used in this project        
+are owned by the respective owners.
